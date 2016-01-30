@@ -8,11 +8,12 @@ public class GuiHome : MonoBehaviour
 
     private GameObject bg;
     private GameObject[] snowflakes;
+    public Sprite[] Sprites;
 
     void MoveToUp (GameObject snowflake)
     {
         var range = Camera.main.aspect * 5f;
-        var size = Random.Range (0.5f, 1.5f);
+        var size = Random.Range (0.5f, 2.0f);
         var position = new Vector2 (Random.Range (-range, range), Random.Range (7f, 14f));
 
         // transform
@@ -21,8 +22,12 @@ public class GuiHome : MonoBehaviour
 
         // gravity and velocity
         var rigidbody = snowflake.GetComponent<Rigidbody2D> () as Rigidbody2D;
-        rigidbody.gravityScale = 0.01f + ((size - 0.5f) * 0.05f);
+        rigidbody.gravityScale = 0.01f + ((size / 2f) * 0.05f);
         rigidbody.velocity = Vector3.zero;
+
+        // sprite
+        var renderer = snowflake.GetComponent<SpriteRenderer> () as SpriteRenderer;
+        renderer.sprite = Sprites [Random.Range (0, Sprites.Length)];
     }
 
     void Start ()
