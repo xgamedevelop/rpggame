@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 7aec8c5b41c243c4ca13496b1b0ff922
+timeCreated: 1454191598
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snow_0
+    21300002: snow_1
+    21300004: snow_2
+    21300006: snow_3
+    21300008: snow_4
+    21300010: snow_5
+    21300012: snow_6
+    21300014: snow_7
+    21300016: snow_8
+    21300018: snow_9
+    21300020: snow_10
+    21300022: snow_11
+    21300024: snow_12
+    21300026: snow_13
+    21300028: snow_14
+    21300030: snow_15
+    21300032: snow_16
+    21300034: snow_17
+    21300036: snow_18
+    21300038: snow_19
+    21300040: snowflake_0
+    21300042: snowflake_1
+    21300044: snowflake_2
+    21300046: snowflake_3
+    21300048: snowflake_4
+    21300050: snowflake_5
+    21300052: snowflake_6
+    21300054: snowflake_7
+    21300056: snowflake_8
+    21300058: snowflake_9
+    21300060: snowflake_10
+    21300062: snowflake_11
+    21300064: snowflake_12
+    21300066: snowflake_13
+    21300068: snowflake_14
+    21300070: snowflake_15
+    21300072: snowflake_16
+    21300074: snowflake_17
+    21300076: snowflake_18
+    21300078: snowflake_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: snowflake_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 315
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 33}
+        - {x: -32, y: -33}
+        - {x: 19, y: -33}
+        - {x: 32, y: -22}
+        - {x: 32, y: 22}
+        - {x: 25, y: 33}
+    - name: snowflake_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 311
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 36}
+        - {x: -32, y: 31}
+        - {x: -32, y: -36}
+        - {x: 29, y: -36}
+        - {x: 32, y: -24}
+        - {x: 32, y: 26}
+        - {x: 18, y: 36}
+    - name: snowflake_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 317
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 36}
+        - {x: -33, y: 25}
+        - {x: -33, y: -29}
+        - {x: -18, y: -36}
+        - {x: 19, y: -36}
+        - {x: 33, y: -21}
+        - {x: 33, y: 26}
+        - {x: 18, y: 36}
+    - name: snowflake_3
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 321
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 33}
+        - {x: -30, y: 27}
+        - {x: -30, y: -24}
+        - {x: -19, y: -29}
+        - {x: -7, y: -33}
+        - {x: 11, y: -33}
+        - {x: 30, y: -20}
+        - {x: 30, y: 26}
+        - {x: 13, y: 33}
+    - name: snowflake_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 314
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 40}
+        - {x: -35, y: 25}
+        - {x: -35, y: -27}
+        - {x: -18, y: -40}
+        - {x: 19, y: -40}
+        - {x: 35, y: -34}
+        - {x: 35, y: 28}
+        - {x: 6, y: 40}
+    - name: snowflake_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 216
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -1}
+        - {x: 18, y: -1}
+        - {x: 34, y: 8}
+        - {x: 35, y: 13}
+        - {x: 35, y: 23}
+        - {x: 26, y: 27}
+        - {x: 12, y: 17}
+        - {x: 9, y: 14}
+        - {x: 12, y: 35}
+        - {x: 7, y: 41}
+        - {x: -22, y: 41}
+        - {x: -35, y: 32}
+        - {x: -35, y: -35}
+        - {x: -26, y: -41}
+        - {x: 25, y: -41}
+        - {x: 35, y: -29}
+        - {x: 35, y: -9}
+        - {x: 20, y: 0}
+    - name: snowflake_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 221
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 37}
+        - {x: -33, y: 24}
+        - {x: -33, y: 11}
+        - {x: -32, y: 6}
+        - {x: -26, y: 1}
+        - {x: -30, y: -1}
+        - {x: -33, y: -6}
+        - {x: -33, y: -27}
+        - {x: -11, y: -37}
+        - {x: 33, y: -37}
+        - {x: 33, y: 32}
+        - {x: 16, y: 37}
+    - name: snowflake_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 219
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -18}
+        - {x: 7, y: -12}
+        - {x: 8, y: -14}
+        - {x: 10, y: -16}
+        - {x: 15, y: -26}
+        - {x: 28, y: -37}
+        - {x: 29, y: -37}
+        - {x: 38, y: -19}
+        - {x: 38, y: 14}
+        - {x: 30, y: 31}
+        - {x: 23, y: 33}
+        - {x: 15, y: 26}
+        - {x: 8, y: 14}
+        - {x: 8, y: 11}
+        - {x: 8, y: 15}
+        - {x: 14, y: 23}
+        - {x: 16, y: 29}
+        - {x: 15, y: 37}
+        - {x: -17, y: 37}
+        - {x: -16, y: 26}
+        - {x: -9, y: 21}
+        - {x: -8, y: 15}
+        - {x: -9, y: 17}
+        - {x: -15, y: 20}
+        - {x: -16, y: 28}
+        - {x: -22, y: 37}
+        - {x: -23, y: 37}
+        - {x: -38, y: 21}
+        - {x: -38, y: -12}
+        - {x: -27, y: -34}
+        - {x: -21, y: -31}
+        - {x: -16, y: -25}
+        - {x: -8, y: -14}
+        - {x: -15, y: -26}
+        - {x: -17, y: -37}
+        - {x: 16, y: -37}
+        - {x: 17, y: -29}
+        - {x: 15, y: -26}
+        - {x: 8, y: -22}
+    - name: snowflake_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 223
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 34}
+        - {x: -23, y: 34}
+        - {x: -32, y: 28}
+        - {x: -32, y: -27}
+        - {x: -22, y: -34}
+        - {x: 19, y: -34}
+        - {x: 32, y: -28}
+        - {x: 32, y: 27}
+        - {x: 23, y: 32}
+    - name: snowflake_9
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 219
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 37}
+        - {x: -32, y: 27}
+        - {x: -32, y: -29}
+        - {x: -18, y: -37}
+        - {x: 6, y: -37}
+        - {x: 32, y: -22}
+        - {x: 32, y: 22}
+        - {x: 8, y: 37}
+    - name: snowflake_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 135
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 31}
+        - {x: -28, y: 30}
+        - {x: -28, y: -27}
+        - {x: -18, y: -31}
+        - {x: 28, y: -31}
+        - {x: 28, y: 31}
+    - name: snowflake_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 66
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 27}
+        - {x: 13, y: 23}
+        - {x: 10, y: 26}
+        - {x: 8, y: 26}
+        - {x: 12, y: 26}
+        - {x: 14, y: 28}
+        - {x: 13, y: 31}
+        - {x: 10, y: 34}
+        - {x: -12, y: 34}
+        - {x: -13, y: 32}
+        - {x: -14, y: 29}
+        - {x: -13, y: 26}
+        - {x: -13, y: 23}
+        - {x: -8, y: 17}
+        - {x: -23, y: 33}
+        - {x: -33, y: 20}
+        - {x: -33, y: -22}
+        - {x: -21, y: -33}
+        - {x: -14, y: -24}
+        - {x: -11, y: -19}
+        - {x: -13, y: -23}
+        - {x: -12, y: -26}
+        - {x: -8, y: -26}
+        - {x: -11, y: -26}
+        - {x: -15, y: -29}
+        - {x: -11, y: -34}
+        - {x: 12, y: -34}
+        - {x: 33, y: -28}
+        - {x: 33, y: 20}
+        - {x: 29, y: 26}
+    - name: snowflake_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 131
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -7}
+        - {x: 28, y: -6}
+        - {x: 30, y: -2}
+        - {x: 30, y: 28}
+        - {x: 14, y: 33}
+        - {x: -20, y: 33}
+        - {x: -27, y: 28}
+        - {x: -30, y: 22}
+        - {x: -30, y: 7}
+        - {x: -27, y: 6}
+        - {x: -30, y: -1}
+        - {x: -30, y: -27}
+        - {x: -12, y: -33}
+        - {x: 8, y: -33}
+        - {x: 8, y: -32}
+        - {x: 27, y: -22}
+        - {x: 30, y: -19}
+    - name: snowflake_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 128
+        width: 66
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 36}
+        - {x: -33, y: -25}
+        - {x: -20, y: -36}
+        - {x: 33, y: -36}
+        - {x: 33, y: 36}
+    - name: snowflake_14
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 139
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 31}
+        - {x: -27, y: 21}
+        - {x: -27, y: -18}
+        - {x: -9, y: -31}
+        - {x: 6, y: -31}
+        - {x: 27, y: -22}
+        - {x: 27, y: 19}
+        - {x: 9, y: 31}
+    - name: snowflake_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 46
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: -31}
+        - {x: 26, y: -31}
+        - {x: 30, y: -29}
+        - {x: 30, y: 31}
+        - {x: -30, y: 31}
+        - {x: -30, y: -24}
+    - name: snowflake_16
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 42
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 32}
+        - {x: -28, y: 25}
+        - {x: -28, y: -25}
+        - {x: -19, y: -32}
+        - {x: 22, y: -32}
+        - {x: 28, y: -30}
+        - {x: 28, y: 24}
+        - {x: 18, y: 32}
+    - name: snowflake_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 44
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 28.5}
+        - {x: -25, y: 23.5}
+        - {x: -25, y: -22.5}
+        - {x: -9, y: -28.5}
+        - {x: 12, y: -28.5}
+        - {x: 25, y: -18.5}
+        - {x: 25, y: 19.5}
+        - {x: 13, y: 28.5}
+    - name: snowflake_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 30
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 23}
+        - {x: 12, y: 19}
+        - {x: 12, y: 30}
+        - {x: 10, y: 39}
+        - {x: -21, y: 39}
+        - {x: -36, y: 27}
+        - {x: -36, y: -39}
+        - {x: 31, y: -39}
+        - {x: 36, y: -36}
+        - {x: 36, y: 30}
+        - {x: 34, y: 32}
+    - name: snowflake_19
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 33
+        width: 60
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 35}
+        - {x: -30, y: 27}
+        - {x: -30, y: -25}
+        - {x: -15, y: -35}
+        - {x: 9, y: -35}
+        - {x: 30, y: -24}
+        - {x: 30, y: 21}
+        - {x: 13, y: 35}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
