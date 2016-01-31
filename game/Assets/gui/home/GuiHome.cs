@@ -61,16 +61,16 @@ public class GuiHome : MonoBehaviour
         var W = Screen.width;
         var H = Screen.height;
 
-        int w = 64, h = 64, space = 20;
+        int w = 150, h = 60, space = 10;
         int y = H - h - space;
 
         // exit
-        if (GUI.Button (new Rect (space, y, w, h), ExitIcon)) {
+        if (GUI.Button (new Rect (2 * space, y, w, h), ExitIcon)) {
             Application.Quit ();
         }
 
         // play 
-        if (GUI.Button (new Rect (W - w - space, y, w, h), StartIcon)) {
+        if (GUI.Button (new Rect (W - w - 2 * space, y, w, h), StartIcon)) {
             Debug.Log ("Play");
         }
     }
