@@ -3,12 +3,12 @@ using System.Collections;
 
 public class GuiHome : MonoBehaviour
 {
+    public Sprite[] Sprites;
     public GameObject Prefab;
     public int Count = 10;
 
     private GameObject bg;
     private GameObject[] snowflakes;
-    public Sprite[] Sprites;
 
     void MoveToUp (GameObject snowflake)
     {
