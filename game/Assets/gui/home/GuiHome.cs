@@ -4,7 +4,10 @@ using System.Collections;
 public class GuiHome : MonoBehaviour
 {
     public Sprite[] Sprites;
+    public Texture2D StartIcon;
+    public Texture2D ExitIcon;
     public GameObject Prefab;
+    public GUISkin EmptySkin;
     public int Count = 10;
 
     private GameObject bg;
@@ -54,16 +57,20 @@ public class GuiHome : MonoBehaviour
 
     void OnGUI ()
     {
+        GUI.skin = EmptySkin;
         var W = Screen.width;
         var H = Screen.height;
 
-        int w = 200, h = 100, space = 20;
+        int w = 64, h = 64, space = 20;
         int y = H - h - space;
 
-        if (GUI.Button (new Rect (space, y, w, h), "Exit")) {
+        // exit
+        if (GUI.Button (new Rect (space, y, w, h), ExitIcon)) {
             Application.Quit ();
         }
-        if (GUI.Button (new Rect (W - w - space, y, w, h), "Play")) {
+
+        // play 
+        if (GUI.Button (new Rect (W - w - space, y, w, h), StartIcon)) {
             Debug.Log ("Play");
         }
     }
