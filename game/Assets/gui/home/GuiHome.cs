@@ -61,7 +61,7 @@ public class GuiHome : MonoBehaviour
         var W = Screen.width;
         var H = Screen.height;
 
-        int w = 150, h = 60, space = 10;
+        int h = (int)(H * 0.15), w = h * 2, space = 10;
         int y = H - h - space;
 
         // exit
