@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 24418f8c6b3cd6747a859d4edc5ed44a
+timeCreated: 1454374361
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: numbers_0
+    21300002: numbers_1
+    21300004: numbers_2
+    21300006: numbers_3
+    21300008: numbers_4
+    21300010: numbers_5
+    21300012: numbers_6
+    21300014: numbers_7
+    21300016: numbers_8
+    21300018: numbers_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: numbers_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 36}
+        - {x: -35, y: 30}
+        - {x: -35, y: -24}
+        - {x: -31, y: -30}
+        - {x: -22, y: -40}
+        - {x: 24, y: -40}
+        - {x: 35, y: -26}
+        - {x: 35, y: 22}
+        - {x: 25, y: 36}
+    - name: numbers_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: -11}
+        - {x: -18, y: -40}
+        - {x: 18, y: -40}
+        - {x: 19, y: -28}
+        - {x: 19, y: 37}
+        - {x: -8, y: 37}
+        - {x: -22, y: 34}
+    - name: numbers_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 36}
+        - {x: -29, y: 32}
+        - {x: -29, y: -32}
+        - {x: -26, y: -40}
+        - {x: 35, y: -40}
+        - {x: 35, y: 27}
+        - {x: 22, y: 36}
+    - name: numbers_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: 0.52757895, y: 0.5120657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.930527, y: 35.034744}
+        - {x: -28.930527, y: 33.034744}
+        - {x: -28.930527, y: -40.965256}
+        - {x: 29.069473, y: -40.965256}
+        - {x: 32.069473, y: -38.965256}
+        - {x: 32.069473, y: 24.034744}
+        - {x: 16.069473, y: 35.034744}
+    - name: numbers_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: -25}
+        - {x: -30, y: -32}
+        - {x: -21, y: -40}
+        - {x: 35, y: -40}
+        - {x: 35, y: 20}
+        - {x: 30, y: 35}
+        - {x: 16, y: 37}
+        - {x: -3, y: 37}
+        - {x: -31, y: 1}
+    - name: numbers_5
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 35}
+        - {x: -30, y: -40}
+        - {x: 32, y: -40}
+        - {x: 32, y: 0}
+        - {x: 29, y: 30}
+        - {x: 26, y: 35}
+    - name: numbers_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 36}
+        - {x: -6, y: 36}
+        - {x: -13, y: 35}
+        - {x: -32, y: 26}
+        - {x: -32, y: -40}
+        - {x: 35, y: -40}
+        - {x: 35, y: 6}
+        - {x: 26, y: 30}
+    - name: numbers_7
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 36}
+        - {x: -27, y: 36}
+        - {x: -27, y: -23}
+        - {x: -20, y: -40}
+        - {x: 15, y: -40}
+        - {x: 16, y: -37}
+        - {x: 34, y: 10}
+        - {x: 34, y: 34}
+    - name: numbers_8
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 36}
+        - {x: -28, y: 33}
+        - {x: -28, y: -39}
+        - {x: -22, y: -40}
+        - {x: 34, y: -40}
+        - {x: 34, y: 26}
+        - {x: 32, y: 36}
+    - name: numbers_9
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 15
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 36}
+        - {x: -31, y: 31}
+        - {x: -31, y: -9}
+        - {x: -27, y: -40}
+        - {x: 20, y: -40}
+        - {x: 35, y: -20}
+        - {x: 35, y: 25}
+        - {x: 24, y: 36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

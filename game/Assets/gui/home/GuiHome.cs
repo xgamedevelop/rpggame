@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class GuiHome : MonoBehaviour
 {
@@ -61,7 +62,7 @@ public class GuiHome : MonoBehaviour
         var W = Screen.width;
         var H = Screen.height;
 
-        int w = 150, h = 60, space = 10;
+        int h = (int)(H * 0.15), w = h * 2, space = 10;
         int y = H - h - space;
 
         // exit
@@ -71,7 +72,7 @@ public class GuiHome : MonoBehaviour
 
         // play 
         if (GUI.Button (new Rect (W - w - 2 * space, y, w, h), StartIcon)) {
-            Debug.Log ("Play");
+            SceneManager.LoadScene ("choose");
         }
     }
 }
