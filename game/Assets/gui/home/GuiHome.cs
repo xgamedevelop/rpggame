@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class GuiHome : MonoBehaviour
 {
@@ -71,7 +72,7 @@ public class GuiHome : MonoBehaviour
 
         // play 
         if (GUI.Button (new Rect (W - w - 2 * space, y, w, h), StartIcon)) {
-            Debug.Log ("Play");
+            SceneManager.LoadScene ("choose");
         }
     }
 }
